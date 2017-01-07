@@ -24,8 +24,9 @@ SECRET_KEY = '65qxe(lie#o#p%yuz9#k26qokceh3wu!brw2_f5)wbb*j1==n$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'thegreattuna.pythonanywhere.com',
+]
 
 
 # Application definition
