@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '65qxe(lie#o#p%yuz9#k26qokceh3wu!brw2_f5)wbb*j1==n$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 ALLOWED_HOSTS = [
     'thegreattuna.pythonanywhere.com',
 ]
